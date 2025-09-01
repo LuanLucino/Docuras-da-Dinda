@@ -135,3 +135,35 @@ footer {
   margin: 0.5rem auto;
   display: block;
 }
+
+
+
+.btn-whatsapp {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 6px 12px;
+  background-color: #25D366;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-whatsapp:hover {
+  background-color: #1ebe5d;
+}
+
+
+.contato {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+.contato ul {
+  list-style: none;
+  padding: 0;
+}
+.contato li {
+  margin-bottom: 1rem;
+}
